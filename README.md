@@ -16,6 +16,11 @@ Je suis étudiante en dernière année à l'Université de Technologie de Compi�
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-%231F6C8C.svg?style=for-the-badge&logo=prolog&logoColor=white)
+![Lisp](https://img.shields.io/badge/Lisp-%237C4DFF.svg?style=for-the-badge&logo=lisp&logoColor=white)
+![Scilab](https://img.shields.io/badge/Scilab-%23000000.svg?style=for-the-badge&logo=scilab&logoColor=white)
+
+
 
 - **Outils :**
   
