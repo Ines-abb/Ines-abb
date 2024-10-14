@@ -36,6 +36,7 @@ Je suis étudiante en dernière année à l'Université de Technologie de Compi�
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)
 ![Hive](https://img.shields.io/badge/Apache%20Hive-FD9B00?style=for-the-badge&logo=apache-hive&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E46A00?style=for-the-badge&logo=apache-spark&logoColor=white)
