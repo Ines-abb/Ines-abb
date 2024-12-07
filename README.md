@@ -42,7 +42,7 @@ Je suis étudiante en dernière année à l'Université de Technologie de Compi�
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E46A00?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 
 - **Frameworks & bibliothèques :**
